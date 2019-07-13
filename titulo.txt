@@ -1,0 +1,1 @@
+<h1>Prueba con php, mysqli, jQuery AJAX</h1>
